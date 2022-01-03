@@ -19,7 +19,7 @@ setup(
                       "scikit-learn==0.24.2",
                       "plotly==5.2.1",
                       "pymongo==3.12.0",
-                      "pydantic==1.8.2"
+                      "pydantic==1.9.0"
                       ],
     classifiers=[
           "Programming Language :: Python :: 3",
